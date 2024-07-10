@@ -2,7 +2,7 @@
 Projeto final da matéria de desenvolvimento WEB do professor Eltoni
 
 
-Visualização em https://lmoura00.github.io/PROJETOFINAL/
+Visualização em [https://lmoura00.github.io/PROJETOFINAL/](https://lmoura00.github.io/PROJETO_FINAL_SITE_TUR/)
 
 ![image](https://github.com/lmoura00/PROJETOFINAL/assets/106556785/5b091577-5f17-4242-80ba-f7ab4405d56d)
 ![image](https://github.com/lmoura00/PROJETOFINAL/assets/106556785/d3b5dae2-ca33-49d2-adb7-394ec0e5c631)
